@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[40],{207:function(o,n){document.querySelectorAll(".slow-motion").forEach(o=>o.playbackRate=.6)}},[[207,32]]]);
